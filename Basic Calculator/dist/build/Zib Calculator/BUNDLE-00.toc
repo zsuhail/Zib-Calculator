@@ -1,0 +1,4 @@
+([('Zib Calculator',
+   '/Users/zohaibsuhail/Documents/Coding/Application Creating/Basic '
+   'Calculator/dist/Zib Calculator',
+   'EXECUTABLE')],)
